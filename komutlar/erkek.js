@@ -5,8 +5,8 @@ const db = require('quick.db')
 exports.run = async (client, message, args) => {
     if(!message.member.roles.cache.has('740204767384698882')) return message.reply('Bu Komut İçin <&@id> Rolüne Sahip Olman Lazım')
 
-  let verilecek = "740204802411200583"
-  let alınıcak = "740204859977891890"
+  let verilecek = "740204802411200583"//ErkekRolİd
+  let alınıcak = "740204859977891890"//KayıtsızRolİD
   let isim = args[1]
   let yaş = args[2]
   let a = message.mentions.members.first()
