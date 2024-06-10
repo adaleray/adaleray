@@ -3,6 +3,7 @@
 <h3 align="center">I am studying software at Gazi University. I want to make myself a full stack developer over time.</h3>
 
 - 🌱 I’m currently learning **c# and java spring**
+- 📫 How to reach me **adaleray@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -43,3 +44,4 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
 </p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adaleray&show_icons=true&locale=en" alt="adaleray" /></p>
