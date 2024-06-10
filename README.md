@@ -1,4 +1,4 @@
- [! [MasterHead] (https://media.tenor.com/CeDk6XdCgOUAAAAi/develop-web.gif)
+ [! [MasterHead] https://media.tenor.com/CeDk6XdCgOUAAAAi/develop-web.gif
 <h1 align="center">Hi 👋, I'm Eray</h1>
 <h3 align="center">I am studying software at Gazi University. I want to make myself a full stack developer over time.</h3>
 
